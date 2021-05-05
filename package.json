@@ -1,0 +1,23 @@
+{
+  "name": "testAction",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinwu/testAction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinwu/testAction/issues"
+  },
+  "homepage": "https://github.com/marvinwu/testAction#readme",
+  "dependencies": {
+    "@pixelondesign/bits-test": "^1.0.0"
+  }
+}
